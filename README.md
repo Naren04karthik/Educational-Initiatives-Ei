@@ -1,12 +1,12 @@
 ## Project Structure and Overview of Design Pattern Exercises
 
-1. Root Folder: EI
+- Root Folder: EI
     - Contains all exercises related to your project work.
-
-2. Exercise 1: Exercise1-Use_Cases
+      
+1. Exercise 1: Exercise1-Use_Cases
     - Implements different design patterns in Java.
-
-3. Organized by pattern type:
+  
+    - Organized by pattern type:
 
     - Behavioural_Pattern
         - Mediator_Smart_Airport → Example of Mediator pattern in airport systems.
@@ -20,6 +20,6 @@
         - Interactive_Building_Manager → Composite/Decorator pattern for building management.
         - Patient_Monitoring_System → Adapter/Facade pattern for healthcare monitoring.
 
-4. Exercise 2: Exercise2-Astronaut_Daily_Schedule_Organizer
+2. Exercise 2: Exercise2-Astronaut_Daily_Schedule_Organizer
     - Example project demonstrating scheduling and management for astronauts.
     - Can include Java files, resources, or other implementation scripts.
