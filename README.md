@@ -1,23 +1,5 @@
 ## Project Structure and Overview of Design Pattern Exercises
 
-EI/
-│
-├─ Exercise1-Use_Cases/
-│ ├─ Behavioural_Pattern/
-│ │ ├─ Mediator_Smart_Airport/
-│ │ └─ Strategic_Learning_Platform/
-│ │
-│ ├─ Creational_Pattern/
-│ │ ├─ Complex_Database_Query/
-│ │ └─ IoT_Device_Communication/
-│ │
-│ └─ Structural_Pattern/
-│ ├─ Interactive_Building_Manager/
-│ └─ Patient_Monitoring_System/
-│
-└─ Exercise2-Astronaut_Daily_Schedule_Organiz...
-
-
 1. Root Folder: EI
     - Contains all exercises related to your project work.
 
