@@ -45,8 +45,6 @@ All operations are coordinated by a **Mediator** called `AirportOperationsCenter
 
 ![alt text](image.png) 
 
-<img width="561" height="633" alt="image" src="https://github.com/user-attachments/assets/7ae88afd-56ee-4b08-bda3-837ff06efa21" />
+<img width="946" height="846" alt="image" src="https://github.com/user-attachments/assets/4a072a87-dba3-48de-abb5-fbbaf356b249" />
 
-
-![alt text](image-1.png)
 
